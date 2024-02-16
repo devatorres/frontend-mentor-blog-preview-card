@@ -1,0 +1,7 @@
+.responsive-wrapper {
+	display: grid;
+	place-items: center;
+	width: 100%;
+	min-height: 100vh;
+	padding: 1.5rem;
+}

@@ -1,0 +1,18 @@
+html {
+	scroll-behavior: smooth;
+	background-color: var(--color-yellow);
+	-webkit-tap-highlight-color: transparent;
+}
+
+body {
+	width: 100vw;
+	min-height: 100vh;
+	font-size: 16px;
+	background-color: transparent;
+	cursor: url('../images/cursors/default.png'), auto;
+}
+
+[id='root'] {
+	width: 100vw;
+	min-height: 100vh;
+}
