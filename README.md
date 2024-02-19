@@ -1,7 +1,7 @@
 # Frontend Mentor - Blog preview card [![Netlify Status](https://api.netlify.com/api/v1/badges/28fbade6-311b-48fd-bf19-d8d1039e4966/deploy-status)](https://app.netlify.com/sites/iridescent-smakager-ef93bc/deploys)
 
-[![Lighthouse Status](https://img.shields.io/badge/-Performance%2099-09864c?style=flat-square&logo=lighthouse&logoColor=white)](https://app.netlify.com/sites/wizardly-hoover-860206/deploys)
-[![Lighthouse Status](https://img.shields.io/badge/-Accessibility%20100-09864c?style=flat-square&logo=lighthouse&logoColor=white)](https://app.netlify.com/sites/wizardly-hoover-860206/deploys)
+[![Lighthouse Status](https://img.shields.io/badge/-Performance%20100-09864c?style=flat-square&logo=lighthouse&logoColor=white)](https://app.netlify.com/sites/wizardly-hoover-860206/deploys)
+[![Lighthouse Status](https://img.shields.io/badge/-Accessibility%2099-09864c?style=flat-square&logo=lighthouse&logoColor=white)](https://app.netlify.com/sites/wizardly-hoover-860206/deploys)
 [![Lighthouse Status](https://img.shields.io/badge/-Best%20Practices%20100-09864c?style=flat-square&logo=lighthouse&logoColor=white)](https://app.netlify.com/sites/wizardly-hoover-860206/deploys)
 [![Lighthouse Status](https://img.shields.io/badge/-SEO%20100-09864c?style=flat-square&logo=lighthouse&logoColor=white)](https://app.netlify.com/sites/wizardly-hoover-860206/deploys)
 
@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github URL](https://github.com/devatorres/frontend-mentor-age-calculator-app)
-- Live Site URL: [Live URL](https://gorgeous-starburst-788b67.netlify.app/)
+- Solution URL: [Github URL](https://github.com/devatorres/frontend-mentor-blog-preview-card)
+- Live Site URL: [Live URL](https://iridescent-smakager-ef93bc.netlify.app/)
 
 ## My process
 
@@ -45,11 +45,11 @@ Users should be able to:
 - Responsive
 - [React](https://reactjs.org/) - JS library
 - Vite
-- Parallax effect
+- Parallax mouse effect
 
 ### What I learned
 
-Using AtroposJs.
+Using react-parallax-mouse.
 
 ## Author
 
