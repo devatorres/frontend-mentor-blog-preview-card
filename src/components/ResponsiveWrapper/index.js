@@ -1,1 +1,1 @@
-export * from './ResponsiveWrapper'
+export * from "./ResponsiveWrapper";

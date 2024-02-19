@@ -1,29 +1,26 @@
 .card {
-	width: min(100%, 384px);
-	min-height: 520px;
-	padding: 1.5rem;
-	border-radius: 1rem;
+  width: min(100%, 384px);
+  padding: 1.5rem;
+  border-radius: 1rem;
 }
 
 .card.cartoon {
-	container-name: cartoon;
-
-	background-color: var(--color-white);
-	border: solid 1px var(--color-black);
-	box-shadow: 0.625rem 0.625rem 0 0 var(--color-black);
-	transition-property: box-shadow, transform;
-	transition-duration: 150ms;
-	transition-timing-function: ease;
+  background-color: var(--color-white);
+  border: solid 1px var(--color-black);
+  box-shadow: 0.625rem 0.625rem 0 0 var(--color-black);
+  transition-property: box-shadow, transform;
+  transition-duration: var(--transition-duration);
+  transition-timing-function: ease;
 }
 
 .card.cartoon:hover {
-	transform: translate(-0.2rem, -0.2rem);
-	box-shadow: 0.8rem 0.8rem 0 0 var(--color-black);
+  transform: translate(-0.2rem, -0.2rem);
+  box-shadow: 0.8rem 0.8rem 0 0 var(--color-black);
 }
 
 @media screen and (max-width: 375px) {
-	.card.cartoon:hover {
-		box-shadow: 0.625rem 0.625rem 0 0 var(--color-black);
-		transform: initial;
-	}
+  .card.cartoon:hover {
+    box-shadow: 0.625rem 0.625rem 0 0 var(--color-black);
+    transform: initial;
+  }
 }
