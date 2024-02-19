@@ -1,16 +1,17 @@
 .avatar {
-  display: flex;
-  flex-flow: row nowrap;
-  align-items: center;
-  column-gap: 0.9rem;
+	display: flex;
+	flex-flow: row nowrap;
+	align-items: center;
+	column-gap: 0.9rem;
 }
 
 .profile-image {
-  appearance: none;
-  display: inline-block;
-  aspect-ratio: 1 / 1;
-  width: 2rem;
-  height: 2rem;
-  border-radius: 50%;
-  clip-path: circle(50% at 50% 50%);
+	user-select: none;
+	appearance: none;
+	display: inline-block;
+	aspect-ratio: 1 / 1;
+	width: 2rem;
+	height: 2rem;
+	border-radius: 50%;
+	clip-path: circle(50% at 50% 50%);
 }

@@ -1,14 +1,15 @@
 .illustration {
-  position: relative;
-  overflow: hidden;
-  width: 100%;
-  aspect-ratio: 16 / 10;
-  border-radius: 0.5rem;
-  margin-bottom: 1.5rem;
-  background-color: var(--color-yellow);
+	user-select: none;
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+	aspect-ratio: 16 / 10;
+	border-radius: 0.5rem;
+	margin-bottom: 1.5rem;
+	background-color: var(--color-yellow);
 }
 
 .wr-element {
-  position: absolute;
-  bottom: 0;
+	position: absolute;
+	bottom: 0;
 }
