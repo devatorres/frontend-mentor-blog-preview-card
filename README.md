@@ -1,4 +1,4 @@
-# Frontend Mentor - Blog preview card
+# Frontend Mentor - Blog preview card [![Netlify Status](https://api.netlify.com/api/v1/badges/28fbade6-311b-48fd-bf19-d8d1039e4966/deploy-status)](https://app.netlify.com/sites/iridescent-smakager-ef93bc/deploys)
 
 [![Lighthouse Status](https://img.shields.io/badge/-Performance%2099-09864c?style=flat-square&logo=lighthouse&logoColor=white)](https://app.netlify.com/sites/wizardly-hoover-860206/deploys)
 [![Lighthouse Status](https://img.shields.io/badge/-Accessibility%20100-09864c?style=flat-square&logo=lighthouse&logoColor=white)](https://app.netlify.com/sites/wizardly-hoover-860206/deploys)
