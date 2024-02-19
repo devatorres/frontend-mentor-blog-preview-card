@@ -17,7 +17,6 @@ import ProfileImage from "../assets/images/image-avatar.webp";
 /**
  *  * Blog Preview Card Type *
  * id: string
- * image: unknown
  * badge: string
  * subtitle: string
  * title: Title
@@ -28,7 +27,6 @@ import ProfileImage from "../assets/images/image-avatar.webp";
 const CARDS_LIST_FAKE_CALL = [
   {
     id: "40b150bf-725d-4248-b6f7-3557e664b1b5",
-    image: "",
     badge: "Learning",
     subtitle: "Published 21 Dec 2023",
     title: {

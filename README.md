@@ -45,7 +45,7 @@ Users should be able to:
 - Responsive
 - [React](https://reactjs.org/) - JS library
 - Vite
-- AtroposJs
+- Parallax effect
 
 ### What I learned
 
